@@ -1,0 +1,55 @@
+_repo: A-voyage-round-the-world-b-Perfomed-by-order-of-His-most-Christian-Majesty-in-the-years-1766-__73429
+_version: 0.0.1
+alternative_title: Voyage autour du monde. English
+contributor:
+  translator:
+    agent_name: Forster, Johann Reinhold
+    aliases:
+    - Forster, John Reinhold
+    - Forster, Joannes Reinoldus
+    birthdate: 1729
+    deathdate: 1798
+    gutenberg_agent_id: '56423'
+    url: http://www.gutenberg.org/2009/agents/56423
+    wikipedia: https://en.wikipedia.org/wiki/Johann_Reinhold_Forster
+creator:
+  author:
+    agent_name: Bougainville, Louis-Antoine de, comte
+    alias: Bougainville, comte de (Louis-Antoine)
+    birthdate: 1729
+    deathdate: 1811
+    gutenberg_agent_id: '33355'
+    url: http://www.gutenberg.org/2009/agents/33355
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Louis_Antoine_de_Bougainville
+    - https://fr.wikipedia.org/wiki/Louis-Antoine_de_Bougainville
+description: ''
+gutenberg_issued: '2024-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73429'
+  lccn: 05034892
+language: en
+pgterms:marc904: https://archive.org/details/voyageroundworld00boug
+pgterms:marc905: 20210907105234bougainvil
+pgterms:marc906: '1772'
+pgterms:marc907: gb
+production_note: Peter Becker, KD Weeks and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bJ. Nourse, $c1772.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boudeuse (Frigate) -- Early works to 1800'
+- !lcsh 'Etoile (Ship) -- Early works to 1800'
+- !lcsh 'Voyages around the world -- Early works to 1800'
+- !lcsh 'Oceania -- Description and travel -- Early works to 1800'
+- !lcsh 'Bougainville, Louis-Antoine de, comte, 1729-1811 -- Travel -- Early works
+  to 1800'
+- !lcc 'G'
+- GITenberg
+title: 'A voyage round the world : $b Perfomed by order of His most Christian Majesty,
+  in the years 1766, 1767, 1768, and 1769.'
+url: http://www.gutenberg.org/ebooks/73429
