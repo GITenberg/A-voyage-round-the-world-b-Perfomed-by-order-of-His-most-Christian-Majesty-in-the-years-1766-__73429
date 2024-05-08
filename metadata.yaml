@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '56423'
     url: http://www.gutenberg.org/2009/agents/56423
     wikipedia: https://en.wikipedia.org/wiki/Johann_Reinhold_Forster
+covers:
+- cover_type: archival
+  image_path: 73429-h/images/cover.jpg
 creator:
   author:
     agent_name: Bougainville, Louis-Antoine de, comte
@@ -24,6 +27,8 @@ creator:
     - https://en.wikipedia.org/wiki/Louis_Antoine_de_Bougainville
     - https://fr.wikipedia.org/wiki/Louis-Antoine_de_Bougainville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73429#A-voyage-round-the-world-b-Perfomed-by-order-of-His-most-Christian-Majesty-in-the-years-1766-_
 gutenberg_issued: '2024-04-19'
 gutenberg_type: Text
 identifiers:
